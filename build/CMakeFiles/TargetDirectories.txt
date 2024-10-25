@@ -1,0 +1,3 @@
+/Users/nicovoneck/Desktop/USC/Fall 2024/ASTE 404/build/CMakeFiles/VecTest.dir
+/Users/nicovoneck/Desktop/USC/Fall 2024/ASTE 404/build/CMakeFiles/edit_cache.dir
+/Users/nicovoneck/Desktop/USC/Fall 2024/ASTE 404/build/CMakeFiles/rebuild_cache.dir
